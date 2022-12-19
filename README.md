@@ -21,16 +21,13 @@ This is a ReactJs site for learning purpose.
 - Firestore Database
 - Firebase Hosting
 
-## Deployment
-
-This website is deployed on Firebase. [Click here](https://facebook-clone-arif.web.app) to visit.
 <br>
 
 ## Screenshots
 
 #### Login
 
-![homepage](https://github.com/Kritagya-web/Facebook-Clone/blob/main/screenshots/HomePage.png)
+![homepage](https://github.com/Kritagya-web/Facebook-Clone/blob/main/screenshots/Login.png)
 
 #### Home
 
