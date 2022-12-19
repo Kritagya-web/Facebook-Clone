@@ -25,18 +25,17 @@ This is a ReactJs site for learning purpose.
 
 This website is deployed on Firebase. [Click here](https://facebook-clone-arif.web.app) to visit.
 <br>
-You can also go direct this link: `https://facebook-clone-arif.web.app`
 
 ## Screenshots
 
 #### Login
 
-![homepage](https://raw.githubusercontent.com/Kritagya-web/react-facebook-clone/master/screenshots/Login.png)
+![homepage](https://github.com/Kritagya-web/Facebook-Clone/blob/main/screenshots/HomePage.png)
 
 #### Home
 
-![homepage](https://raw.githubusercontent.com/Kritagya-web/react-facebook-clone/master/screenshots/HomePage.png)
+![homepage](https://github.com/Kritagya-web/Facebook-Clone/blob/main/screenshots/HomePage.png)
 
 #### Menu
 
-![homepage](https://raw.githubusercontent.com/Kritagya-web/react-facebook-clone/master/screenshots/Menu.png)
+![homepage](https://github.com/Kritagya-web/Facebook-Clone/blob/main/screenshots/Menu.png)
