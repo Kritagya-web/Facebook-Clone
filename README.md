@@ -1,4 +1,4 @@
-# [React Facebook Clone](https://facebook-clone-arif.web.app) &middot; [Author Kritagya](https://www.linkedin.com/in/kritagya-kumra-bba9b41b6/)
+# [React Facebook Clone](https://facebook-clone-arif.web.app) &middot; 
 
 This is a ReactJs site for learning purpose.
 
